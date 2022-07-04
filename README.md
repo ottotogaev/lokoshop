@@ -1,4 +1,4 @@
-# lokoshop Online Store for noobs :(
+# lokoshop Online Store
 
 
 ![Главная страница](https://i.ibb.co/gv4VNsb/Screenshot-2.png)
